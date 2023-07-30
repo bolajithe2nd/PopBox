@@ -1,2 +1,2 @@
-# PopBox
+# Popmania
 A reusable modal component.
